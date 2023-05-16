@@ -1,0 +1,23 @@
+{
+  "name": "jd_text_editor_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmckelvey786/JD_Text_Editor_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmckelvey786/JD_Text_Editor_2/issues"
+  },
+  "homepage": "https://github.com/jmckelvey786/JD_Text_Editor_2#readme",
+  "dependencies": {
+    "concurrently": "^8.0.1",
+    "nodemon": "^2.0.22"
+  }
+}
